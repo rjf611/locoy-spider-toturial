@@ -8,7 +8,7 @@
 
 github : [https://github.com/rjf611](https://github.com/rjf611)
 
-gitbook：
+gitbook：老是发布失败，我也没办法
 
 欢迎来访我们的博客 —— [奔跑的蜗牛](http://www.leesven.com)
 
